@@ -20,5 +20,6 @@ App da marvel que lista os personagens.
 - Faça ```git clone``` deste projeto na sua máquina.
 - Com os devices configurados: 
 Acesse o diretório do projeto pelo terminal e rode: ```flutter run```.
+- Rode também: ```flutter pub run build_runner build```.
 
 E pronto :)
